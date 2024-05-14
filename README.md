@@ -1,4 +1,4 @@
-[![Background](https://raw.githubusercontent.com/alpacato/profile/main/image.png)](https://github.com/alpacato)
+[![Background](https://raw.githubusercontent.com/alpacato/alpacato/main/image.png)](https://github.com/alpacato)
 
 ### Hi there 👋
 
